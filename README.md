@@ -1,9 +1,9 @@
 # Distracted Driver Recognition
 
 ## How It Works?
-###Input
+### Input
 ![](https://imgur.com/3RTJkYY.png)
-###Output
+### Output
 ![](https://imgur.com/JnKboVS.png)
 
 Server saves the image and the driver gets warned by a beeping sound.
